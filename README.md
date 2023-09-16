@@ -1,6 +1,6 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors Game
 
-Rock, Paper, Scissors Game
+
 This simple Rock, Paper, Scissors game is a Python program that allows players to enjoy the classic hand game. The program offers two modes:
 
 1 Player Mode: Play against the computer, which randomly selects its moves.
